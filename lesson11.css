@@ -1,0 +1,33 @@
+body{
+    background-color: darkgreen;
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    
+}
+
+.fact-panel{
+    width: 400px;
+    padding:20px;
+
+    border: 2px solid forestgreen;
+    margin:40px;
+   
+
+    background-color: lightyellow;
+    color: #1b3a1b;
+    border-radius: 6px;
+
+
+
+}
+
+.fact-panel h1{
+    margin-top:0;
+    color:forestgreen;
+
+}
+
+.fact-panel p{
+    line-height: 1,5;
+}
